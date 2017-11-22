@@ -1,4 +1,4 @@
 public class kiss {
 
-    private String name;
+    private int name;
 }
